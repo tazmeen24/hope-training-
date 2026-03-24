@@ -13,3 +13,12 @@ class pattern1{
       }
    }
 }
+
+/*
+Example Output (if n = 5):
+*
+**
+***
+****
+*****
+*/
